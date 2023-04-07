@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srcrafton
 - 👀 I’m interested in game development.
-- 🌱 I’m currently learning animation, unity, C# and C++.
+- 🌱 I’m currently learning about animation, unity, C# and C++.
 - 💞️ I’m looking to collaborate on game development.
 - 📫 How to reach me is by email.
 
